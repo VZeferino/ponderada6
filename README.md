@@ -10,3 +10,6 @@ Baixe o arquivo deste repositório, importe em um google colab e rode cada bloco
 ## Construção do Modelo
 ## Predição e Visualização
 e enfim a execução final que roda **main()**
+
+# Video com a solução
+[video demonstração](https://youtu.be/6v1diSTVJgk)
